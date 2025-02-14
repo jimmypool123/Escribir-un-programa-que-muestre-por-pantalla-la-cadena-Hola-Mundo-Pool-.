@@ -1,3 +1,3 @@
-# Escribir un programa que muestre por pantalla la cadena Hola Pool.
+# Escribir un programa que muestre por pantalla la cadena Hola Mundo.
 
-print( " HOLA POOL " )
+print( " HOLA Mundo " )
